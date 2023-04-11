@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about
 - 📫 How to reach me: siddharthsk7t@gmail.com
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: eSports team 
 -->
