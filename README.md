@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I’m am Data Scientist/ Machine Learning Engineer 🤖<br>🌱 I’m currently learning NLP 🗨️<br>⚡ ThunderSky7
+🧑‍💻 I’m am Data Scientist<br>🌱 I’m currently learning NLP 🗨️<br>⚡ ThunderSky7
 
 
 <!--### 🌐 Socials:
