@@ -1,6 +1,5 @@
-# 💫 About Me:
-🧑‍💻 I’m a Data Scientist<br>🌱 I’m currently learning NLP 🗨️<br>⚡ ThunderSky7
-
+<h1 align="center">Hi 👋, I'm Siddharth Kamble</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <!--### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddharthxsky ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/siddharth_s_k ) -->
