@@ -1,9 +1,7 @@
 <h1 align="center">Hi👋, I'm Siddharth Kamble</h1>
 
 - 🖥️ I'm a Data Scientist 🥼
-
 - 🌱 I’m currently learning NLP 🗨️
-
 - ⚡ ThunderSky7
 
   <!--### 🌐 Socials:
