@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Siddharth Kamble</h1>
 
-- 🖥️ I'm a Data Scientist 🥼
+- 🖥️ I'm Data Scientist 🥼
 - 🌱 I’m currently learning GPT 🗨️
 - ⚡ ThunderSky7
 
