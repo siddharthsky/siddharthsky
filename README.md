@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, I'm Siddharth Kamble 🖥️</h1>
-  <p>🥼 Data Scientist | 🌱 Learning GPT | ⚡ ThunderSky7 </p>
+  <p>🌱 Learning GPT | ⚡ ThunderSky7 </p>
 </div>
 
 ## 💻 Tech Stack:
