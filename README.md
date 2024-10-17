@@ -32,11 +32,6 @@
 </div>
 
 <div align="center" style="margin-top: 2em;">
-  <h2 style="color: #333;">🌱 Currently Learning</h2>
-  <p style="color: #666; font-size: 1.1em;">- GPT (Generative Pre-trained Transformer)<br>- Advanced Machine Learning Techniques</p>
-</div>
-
-<div align="center" style="margin-top: 2em;">
   <h2 style="color: #333;">🤝 Open Source Contributions</h2>
   <p style="color: #666; font-size: 1.1em;">I'm always open to collaborating on interesting projects. Feel free to reach out!</p>
 </div>
