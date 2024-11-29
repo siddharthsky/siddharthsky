@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-size: 2.5em; color: #4A90E2;">👋 Hello, I'm Siddharth Kamble 🖥️</h1>
   <p style="font-size: 1.2em; color: #666;">⚡ ThunderSky7</p>
-</div>
+</div> 
 
 <div align="center">
   <h2 style="color: #333;">💻 Tech Stack</h2>
