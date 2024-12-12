@@ -25,14 +25,19 @@
 </div>
 
 
+<!--
 <div align="center">
   <h2 style="color: #333;">⚡ Alternate Alias</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-   <p style="font-size: 1.2em; color: #666;"> <a href="https://github.com/thundersky7" style="color: inherit; text-decoration: none;">
+    <p style="font-size: 1.2em; color: #666;">
+      <a href="https://github.com/thundersky7" style="color: inherit; text-decoration: none;">
         ThunderSky7
-      </a> </p>
+      </a>
+    </p>
   </div>
 </div>
+-->
+
 
 <div align="center" style="margin-top: 2em;">
   <h2 style="color: #333;">📊 GitHub Stats</h2>
