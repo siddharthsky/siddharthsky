@@ -1,6 +1,5 @@
 <div align="center">
   <h1 style="font-size: 2.5em; color: #4A90E2;">👋 Hello, I'm Siddharth Kamble 🖥️</h1>
-  <p style="font-size: 1.2em; color: #666;">⚡ ThunderSky7</p>
 </div> 
 
 <div align="center">
@@ -25,6 +24,16 @@
   </div>
 </div>
 
+
+<div align="center">
+  <h2 style="color: #333;">⚡ Alternate Alias</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+   <p style="font-size: 1.2em; color: #666;"> <a href="https://github.com/thundersky7" style="color: inherit; text-decoration: none;">
+        ThunderSky7
+      </a> </p>
+  </div>
+</div>
+
 <div align="center" style="margin-top: 2em;">
   <h2 style="color: #333;">📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=siddharthsky&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats 01" />
@@ -35,4 +44,3 @@
   <h2 style="color: #333;">🤝 Open Source Contributions</h2>
   <p style="color: #666; font-size: 1.1em;">I'm always open to collaborating on interesting projects. Feel free to reach out!</p>
 </div>
-
