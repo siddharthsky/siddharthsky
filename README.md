@@ -2,7 +2,7 @@
   <h1 style="font-size: 2.5em; color: #4A90E2;">👋 Hello, I'm Siddharth Kamble 🖥️</h1>
 </div> 
 
-<div align="center">
+<!-- <div align="center">
   <h2 style="color: #333;">💻 Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python Badge" />
@@ -18,8 +18,16 @@
     <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=flat&logo=LangChain&logoColor=white" alt="LangChain Badge" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker Badge" />
   </div>
-</div>
+</div> -->
 
+
+<div align="center">
+<p align="center">
+ <h2 style="color: #333;">💻 Tech Stack</h2>
+<img src="https://skillicons.dev/icons?i=python,html,aws,flask,fastapi,androidstudio,bootstrap,docker,mysql,mongodb,sqlite,tensorflow,git"/>
+
+</p>
+</div>
 
 <!--
 <div align="center">
