@@ -24,7 +24,7 @@
 <div align="center">
 <p align="center">
  <h2 style="color: #333;">💻 Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=python,html,aws,flask,fastapi,androidstudio,bootstrap,docker,mysql,mongodb,sqlite,tensorflow,git"/>
+<img src="https://skillicons.dev/icons?i=python,html,aws,flask,fastapi,androidstudio,docker,mysql,mongodb,tensorflow,git"/>
 
 </p>
 </div>
